@@ -28,8 +28,8 @@ This project focuses on developing a deep learning model for classifying clothin
   - Fully connected layers for classification
 
 ## Results
-- Achieved accuracy: [insert accuracy here]
-- Loss curve: [insert loss curve plot here]
+- Achieved accuracy: [80.75%]
+- Loss curve: [20.25%]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
