@@ -17,10 +17,11 @@ This project aims to develop a deep learning model for classifying fashion items
 1. Clone this repository:
    ```bash
    git clone https://github.com/omkarpattnaik8080/ClothingClassification.git
-<br>Install dependencies:
+   
+<br>Install dependencies:<br>
 bash
 <br>Copy code
-pip install -r requirements.txt
+<br>pip install -r requirements.txt
 <br>Usage<br>
 Prepare the dataset:<br>
 Download the Fashion MNIST dataset or prepare your dataset.<br>
